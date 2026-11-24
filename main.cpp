@@ -1,6 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-	std::cout << "오늘은 화요일" << std::endl;
+	cout << "today is second day." << endl;
+	cout << "korean isn't show at github." << endl;
+	cout << "using namespace std" << endl;
 	return 0;
 }
